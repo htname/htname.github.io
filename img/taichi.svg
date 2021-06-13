@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1220" height="1220">
+<g transform='rotate(90) scale(-1 1) translate(-1210 -1210)'>
+<path fill='#fff' d='M0 600a600 600 0 1 1 1200 0A600 600 0 1 1 0 600zM450,600a150 150 0 1 0 300 0A150 150 0 1 0 450 600z'/>
+<path fill='#000' d='M-5 600a605 605 0 1 0 1210 0A605 605 0 1 0 -5 600zM5,600A375 375 0 1 0 755 600A155 155 0 1 0 445 600a375 375 0 1 1 750 0A595 595 0 1 1 5 600zM455 600a145 145 0 1 1 290 0A145 145 0 1 1 455 600z'/>
+</g>
+</svg>
